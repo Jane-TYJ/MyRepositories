@@ -1,1 +1,8 @@
 just learn a new code.
+
+public class helloworld{
+public static void main(String[] args){
+  //输出一个helloworld
+  System.out.printin("Hello,World!");
+  }
+ }
